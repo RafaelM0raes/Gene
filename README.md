@@ -2,11 +2,11 @@
 
 Dataset link: https://www.kaggle.com/crawford/gene-expression
 
-##**Context**
+# **Context**
 
 This dataset comes from a proof-of-concept study published in 1999 by Golub et al. It showed how new cases of cancer could be classified by gene expression monitoring (via DNA microarray) and thereby provided a general approach for identifying new cancer classes and assigning tumors to known classes. These data were used to classify patients with acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL).
 
-##**Content**
+# **Content**
 
 Golub et al "Molecular Classification of Cancer: Class Discovery and Class
 Prediction by Gene Expression Monitoring"
@@ -21,6 +21,6 @@ Science 286:531-537. (1999). Published: 1999.10.14
 T.R. Golub, D.K. Slonim, P. Tamayo, C. Huard, M. Gaasenbeek, J.P. Mesirov, H. Coller, M. Loh, J.R. Downing, M.A. Caligiuri, C.D. Bloomfield, and E.S. Lander
 
 These datasets have been converted to a comma separated value files (CSV).
-##**Inspiration**
+## **Inspiration**
 
 These datasets are great for classification problems. The original authors used the data to classify the type of cancer in each patient by their gene expressions.
